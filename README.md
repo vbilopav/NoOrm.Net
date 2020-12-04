@@ -2,10 +2,13 @@
 
 Modern and extendible **`C# 8`** data access library **.NET Core**.
 
-> **Warning**
+> **WARNING**
 
-> **THIS REPOSITORY IS ARCHIVED!** 
+> **THIS REPOSITORY IS ARCHIVED** 
+
 > **SOURCE CODE TRANSFERED TO [https://github.com/vb-consulting/Norm.net](https://github.com/vb-consulting/Norm.net)**
+
+> All future changes are commited there!
 
 ## Licence
 
